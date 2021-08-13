@@ -1,6 +1,6 @@
 // JS RESPONSIBLE FOR INTERACTING WITH THE WEATHER API
 
-const key = 'v9ug0x2bWAvtMFBoF9rDOfiYW5KuILpD';
+const key = 'TYRmGV5zhWWeqvijGsVMhplj1yqUBAvG';
 
 //retrieving weather information
 const weather = async (ref) => {
